@@ -1,41 +1,41 @@
 {
     "title": "Fly to Ireland with less than $700 round trip plus more!",
     "dealOfTheDay": {
-        "location": "Ireland",
-        "description": "8 days with air, hotel and car rental. Use promo code CFDL11 to save. Price reflects NYC departure, other cities available.",
-        "saveAmount": "Save $110 with code",
-        "tinyInfo": "Gate 1 Travel",
-        "price": "649",
-        "link": "#",
-        "image": "/assets/img/kayak_files/ireland.png"
+        "bait": "Shark Starter Pack",
+        "description": "Includes Freshwater Eels × 2 up to 500grams, Freshwater Eels × 1 500grams to 700grams, Stingray up to 1kg × 1, Shark rig single hook 6/0 88lb × 1, Shark rig single hook 12/0 132 lb × 1 & Shark rig single hook 14/0 154lb × 1. Use promo code CFDL11 to save. Other Starter Packs available.",
+        "saveAmount": "Save $10 with code",
+        "tinyInfo": "thebaitshopgoldcoast.com",
+        "price": "50",
+        "link": "https://thebaitshopgoldcoast.com/product/shark-starter-pack/",
+        "image": "/assets/img/baitshop_files/sharkstarterpack.jpg"
     },
     "offers": [
         {
-        "location": "Cancun",
-        "description": "Cancun: 4 nights with air and Melody Maker Cancun stay. Price reflects MIA departure, other cities available.",
-        "saveAmount": "Save up to 65%",
-        "tinyInfo": "CheapCaribbean.com",
-        "price": "689",
-        "link": "#",
-        "image": "/assets/img/kayak_files/cancun.png"
+        "bait": "Banana Prawns 500G",
+        "description": "Frozen Banana Prawns in 500G packs.",
+        "saveAmount": "Save up to 5%",
+        "tinyInfo": "thebaitshopgoldcoast.com",
+        "price": "10",
+        "link": "https://thebaitshopgoldcoast.com/product/banana-prawns-500g/",
+        "image": "/assets/img/baitshop_files/bananaPrawns.jpg"
     },
     {
-        "location": "China",
-        "description": "Spend 7 nights in the heart of Beijin.",
-        "saveAmount": "Save up to 34%",
-        "tinyInfo": "chinaair.com",
-        "price": "950",
-        "link": "#",
-        "image": "/assets/img/kayak_files/china.jpg"
+        "bait": "Live Bait Worms European Night Crawlers Small Pack",
+        "description": "Live Bait Worms European Night Crawlers Small Pack around 25 per pack.",
+        "saveAmount": "Save up to 10%",
+        "tinyInfo": "thebaitshopgoldcoast.com",
+        "price": "10",
+        "link": "https://thebaitshopgoldcoast.com/product/live-bait-worms-european-night-crawlers-small-pack/",
+        "image": "/assets/img/baitshop_files/liveBaitWorms.jpg"
     },
     {
-        "location": "London",
-        "description": "Visit the castles at London.",
-        "saveAmount": "Save up to 45%",
-        "tinyInfo": "CheapCaribbean.com",
-        "price": "1200",
-        "link": "#",
-        "image": "/assets/img/kayak_files/london.png"
+        "bait": "Cuttlefish Head Pack",
+        "description": "Cuttlefish Head in a pack.",
+        "saveAmount": "Save up to 15%",
+        "tinyInfo": "thebaitshopgoldcoast.com",
+        "price": "11",
+        "link": "https://thebaitshopgoldcoast.com/product/cuttlefish-head-pack/",
+        "image": "/assets/img/baitshop_files/cuttlefishHead.jpg"
     }
 ]
 }
