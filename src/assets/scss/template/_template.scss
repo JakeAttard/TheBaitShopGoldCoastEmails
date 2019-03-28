@@ -239,7 +239,8 @@ body,
     &.lastOffer {
 
       .groupIcons {
-        width: 190px;
+        height: 355px;
+        width: 690px;
         margin: 0 auto;
         padding-bottom: 0;
       }
@@ -376,6 +377,8 @@ body,
       font-weight: 700;
 
       .icons {
+        background: #ffffff;
+        background-color: #ffffff;
         width: 20px;
         margin-right: 10px;
         display: inline-block;
